@@ -2,12 +2,11 @@
   "license": "proprietary",
   "type": "project",
   "require": {
-    "composer-runtime-api": "^2.0",
-    "agravis/agravis-stock-badges": "^1.0",
-    "shopware/administration": "*",
-    "shopware/core": "v6.6.9.0",
-    "shopware/storefront": "*",
-    "symfony/flex": "~2"
+    "composer-runtime-api": "2.0",
+    "shopware/administration": "6.6.9.0",
+    "shopware/core": "6.6.9.0",
+    "shopware/storefront": "6.6.9.0",
+    "symfony/flex": "2.4.7"
   },
   "repositories": [
     {
